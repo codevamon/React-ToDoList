@@ -1,0 +1,28 @@
+.item-input {
+  background-color: #1a1a1a;
+  border: 1px solid transparent;
+  border-color: #1a1a1a;
+  border-radius: 8px;
+  border-style: solid;
+  font-size: 1em;
+  padding: 0.6em 1.2em;
+  width: 45%;
+  transition: border-color 0.25s;
+}
+
+.item-input:hover {
+  border-color: aquamarine;
+}
+
+.item-intput:focus {
+  border-color: aquamarine;
+}
+
+ol {
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+span {
+  display: block;
+}
